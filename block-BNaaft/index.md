@@ -8,7 +8,6 @@ Create an event management website using express & mongoDB where users visiting 
 4. Delete events
 5. Like events/remarks added by other users
 6. Filter events based on category
-
 7. Each events can have fields like:-
 
 - title
@@ -17,7 +16,7 @@ Create an event management website using express & mongoDB where users visiting 
 - start_date
 - end_date
 - event_category like programming, sports, trekking
-- there can be multiple categories for a single event
+  there can be multiple categories for a single event
 - location
 - likes(default to 0)
 - timestamps
